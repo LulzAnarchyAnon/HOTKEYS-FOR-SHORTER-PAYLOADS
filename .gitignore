@@ -1,18 +1,625 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+Essential Shortcuts
 
-# Other files and folders
-.settings/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+Keyboard shortcut	Action
+
+Ctrl + A	Select all content.
+
+Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.
+
+Ctrl + X	Cut selected items to clipboard.
+
+Ctrl + V (or Shift + Insert)	Paste content from clipboard.
+
+Ctrl + Z	Undo an action, including undelete files (limited).
+
+Ctrl + Y	Redo an action.
+
+Ctrl + Shift + N	Create new folder on desktop or File Explorer.
+
+Alt + F4	Close active window. (If no active window is present, a shutdown box appears.)
+
+Ctrl + D (Del)	Delete selected item to the Recycle Bin.
+
+Shift + Delete	Delete the selected item permanently, skipping Recycle Bin.
+
+F2	Rename selected item.
+
+Esc	Close current task.
+
+Alt + Tab	Switch between open apps.
+
+PrtScn	Take a screenshot and stores it in the clipboard.
+
+Windows key + I	Open Settings app.
+
+Windows key + E	Open File Explorer.
+
+Windows key + A	Open Action center.
+
+Windows key + D	Display and hide the desktop.
+
+Windows key + L	Lock device.
+
+Windows key + V	Open Clipboard bin.
+
+Windows key + Period (.) or Semicolon (;)	Open emoji panel.
+
+Windows key + PrtScn	Capture a full screenshot in the "Screenshots" folder.
+
+Windows key + Shift + S	Capture part of the screen with Snip & Sketch.
+
+Windows key + Left arrow key	Snap app or window left.
+
+Windows key + Right arrow key	Snap app or window right.
+
+Depending on your hardware, you can use Windows logo
+
+key  + PrtScn to take a screenshot, or use Fn + Windows
+
+logo key  + Spacebar. 
+
+
+
+Desktop Shortcuts
+
+
+Windows key (or Ctrl + Esc)	Open Start menu.
+
+Ctrl + Arrow keys	Change Start menu size.
+
+Ctrl + Shift + Esc	Open Task Manager.
+
+Ctrl + Shift	Switch keyboard layout.
+
+Alt + F4	Close active window. (If no active window is present, a shutdown box appears.)
+
+Ctrl + F5 (or Ctrl + R)	Refresh current window.
+
+Ctrl + Alt + Tab	View open apps.
+
+Ctrl + Arrow keys (to select) + Spacebar	Select multiple items on desktop or File Explorer.
+
+Alt + Underlined letter	Runs command for the underlined letter in apps.
+
+Alt + Tab	Switch between open apps while pressing Tab multiple times.
+
+Alt + Left arrow key	Go back.
+
+Alt + Right arrow key	Go forward.
+
+Alt + Page Up	Move up one screen.
+
+Alt + Page Down	Move down one screen.
+
+Alt + Esc	Cycle through open windows.
+
+Alt + Spacebar	Open context menu for the active window.
+
+Alt + F8	Reveals typed password in Sign-in screen.
+
+Shift + Click app button	Open another instance of an app from the Taskbar.
+
+Ctrl + Shift + Click app button	Run app as administrator from the Taskbar.
+
+Shift + Right-click app button	Show window menu for the app from the Taskbar.
+
+Ctrl + Click a grouped app button	Cycle through windows in the group from the Taskbar.
+
+Shift + Right-click grouped app button	Show window menu for the group from the Taskbar.
+
+Ctrl + Left arrow key	Move the cursor to the beginning of the previous word.
+
+Ctrl + Right arrow key	Move the cursor to the beginning of the next word.
+
+Ctrl + Up arrow key	Move the cursor to the beginning of the previous paragraph
+
+Ctrl + Down arrow key	Move the cursor to the beginning of the next paragraph.
+
+Ctrl + Shift + Arrow key	Select block of text.
+
+Ctrl + Spacebar	Enable or disable Chinese IME.
+
+Shift + F10	Open context menu for selected item.
+
+F10	Enable app menu bar.
+
+Shift + Arrow keys	Select multiple items.
+
+Windows key + X	Open Quick Link menu.
+
+Windows key + Number (0-9)	Open the app in number position from the Taskbar.
+
+Windows key + T	Cycle through apps in the Taskbar.
+
+Windows key + Alt + Number (0-9)	Open Jump List of the app in number position from the Taskbar.
+
+Windows key + D	Display and hide the desktop.
+
+Windows key + M	Minimize all windows.
+
+Windows key + Shift + M	Restore minimized windows on the desktop.
+
+Windows key + Home	Minimize or maximize all but the active desktop window.
+
+Windows key + Shift + Up arrow key	Stretch desktop window to the top and bottom of the screen.
+
+Windows key + Shift + Down arrow key	Maximize or minimize active desktop windows vertically while maintaining width.
+
+Windows key + Shift + Left arrow key	Move active window to monitor on the left.
+
+Windows key + Shift + Right arrow key	Move active window to monitor on the right.
+
+Windows key + Left arrow key	Snap app or window left.
+
+Windows key + Right arrow key	Snap app or window right.
+
+Windows key + S (or Q)	Open Search.
+
+Windows key + Alt + D	Open date and time in the Taskbar.
+
+Windows key + Tab	Open Task View.
+
+Windows key + Ctrl + D	Create new virtual desktop.
+
+Windows key + Ctrl + F4	Close active virtual desktop.
+
+Windows key + Ctrl + Right arrow	Switch to the virtual desktop on the right.
+
+Windows key + Ctrl + Left arrow	Switch to the virtual desktop on the left.
+
+Windows key + P	Open Project settings.
+
+Windows key + A	Open Action center.
+
+Windows key + I	Open Settings app.
+
+Backspace	Return to the Settings app home page.
+
+
+
+
+File Explorer Shortcuts
+
+Keyboard shortcut	Action
+
+Windows key + E	Open File Explorer.
+
+Alt + D	Select address bar.
+
+Ctrl + E (or F)	Select search box.
+
+Ctrl + N	Open new window.
+
+Ctrl + W	Close active window.
+
+Ctrl + F (or F3)	Start search.
+
+Ctrl + Mouse scroll wheel	Change view file and folder.
+
+Ctrl + Shift + E	Expands all folders from the tree in the navigation pane.
+
+Ctrl + Shift + N	Creates a new folder on desktop or File Explorer.
+
+Ctrl + L	Focus on the address bar.
+
+Ctrl + Shift + Number (1-8)	Changes folder view.
+
+Alt + P	Display preview panel.
+
+Alt + Enter	Open Properties settings for the selected item.
+
+Alt + Right arrow key	View next folder.
+
+Alt + Left arrow key (or Backspace)	View previous folder.
+
+Alt + Up arrow	Move up a level in the folder path.
+
+F11	Switch active window full-screen mode.
+
+F2	Rename selected item.
+
+F4	Switch focus to address bar.
+
+F5	Refresh File Explorer's current view.
+
+F6	Cycle through elements on the screen.
+
+Home	Scroll to the top of the window.
+
+End	Scroll to the bottom of the window.
+
+
+
+
+Settings Page Shortcuts
+
+
+Keyboard shortcut	Action
+
+Ctrl + Tab	Cycles forward through the tabs.
+
+Ctrl + Shift + Tab	Cycles back through the tabs.
+
+Ctrl + number of tab	Jumps to tab position.
+
+Tab	Moves forward through the settings.
+
+Shift + Tab	Moves back through the settings.
+
+Alt + underline letter	Actions the setting identified by the letter.
+
+Spacebar	Checks or clears the option in focus.
+
+Backspace	Opens the folder one-level app in the Open or Save As dialog.
+
+Arrow keys	Select a button of the active setting.
+
+Command Prompt shortcuts
+
+If you use Command Prompt, these keyboard shortcuts will help to work a little more efficiently.
+
+Keyboard shortcut	Action
+
+Ctrl + A	Select all content of the current line.
+
+Ctrl + C (or Ctrl + Insert)	Copy selected items to clipboard.
+
+Ctrl + V (or Shift + Insert)	Paste content from clipboard.
+
+Ctrl + M	Starts mark mode.
+
+Ctrl + Up arrow key	Move the screen up one line.
+
+Ctrl + Down arrow key	Move screen down one line.
+
+Ctrl + F	Open search for Command Prompt.
+
+Left or right arrow keys	Move the cursor left or right in the current line.
+
+Up or down arrow keys	Cycle through the command history of the current session.
+
+Page Up	Move cursor one page up.
+
+Page Down	Move cursor one page down.
+
+Ctrl + Home	Scroll to the top of the console.
+
+Ctrl + End	Scroll to the bottom of the console.
+
+
+
+
+
+Microsoft Edge Shortcuts
+
+
+Keyboard shortcut	Action
+
+Ctrl + Shift + B	Show or hide the favorites bar.
+
+Alt + Shift + B	Focus on the first item in the favorites bar.
+
+Ctrl + D	Save the tab as a favorite.
+
+Ctrl + Shift + D	Save open tabs as favorites inside a new folder.
+
+Alt + D (or Ctrl + L or F4)	Select the URL in the address bar to edit.
+
+Ctrl + E (or Ctrl + K)	Start search in the address bar.
+
+Alt + E (or Alt + F or F10 + Enter)	Open the Settings (three-dotted) menu.
+
+Ctrl + F (or F3)	Open the Find on page feature.
+
+Ctrl + G	Cycle through search matches in the Find Bar.
+
+Ctrl + Shift + G	Reverse cycle through search matches in the Find Bar.
+
+Ctrl + H	Open the History page in a new tab.
+
+Ctrl + Shift + I (or F12)	Open Developer Tools console.
+
+Alt + Shift + I	Open the Send feedback experience.
+
+Ctrl + J	Open the Downloads page in a new tab.
+
+Ctrl + Shift + K	Create a duplicate of the tab.
+
+Ctrl + Shift + L	Paste and search or Paste and go.
+Ctrl + M	Mute the current tab.
+
+Ctrl + Shift + M	Sign in as a different user in the browser or use Guest user.
+
+Ctrl + N	Open a new tab in a new window.
+
+Ctrl + Shift + N	Open a new InPrivate window.
+
+Ctrl + O	Launch Open dialog.
+
+Ctrl + Shift + O	Open Favorites management page.
+
+Ctrl + P	Print the current page.
+
+Ctrl + Shift + P	Open print settings to print page.
+
+Ctrl + R (or F5)	Reload the current page.
+
+Ctrl + Shift + R (or Shift + F5)	Reload the page, ignoring cached content.
+
+Ctrl + S	Save loaded page.
+
+Ctrl + T	Open a new tab and switch to new tab.
+
+Ctrl + Shift + T	Reopen the last closed tab and switch to the tab.
+
+Alt + Shift + T	Focus on the first item in the toolbar.
+
+Ctrl + U	View page source code.
+
+Ctrl + Shift + U	Controls Read Aloud feature.
+
+Ctrl + Shift + V	Paste without including formatting.
+
+Ctrl + W (or Ctrl + F4)	Close the current tab.
+
+Ctrl + Shift + W	Close the current window and tabs.
+
+Ctrl + Shift + Y	Open Collections feature.
+
+Ctrl + 0	Reset zoom level setting.
+
+Ctrl + 1, 2, ... 8	Switch to a specific open tab.
+
+Ctrl + 9	Switch to the last tab of the window.
+
+Ctrl + Enter	Add "www." to the link you typed.
+
+Ctrl + Tab (or Ctrl + PgDn)	Switch to the next open tab.
+
+Ctrl + Shift + Tab	Switch to the previous open tab.
+
+Ctrl + Plus (+)	Zoom in.
+
+Ctrl + Minus (-)	Zoom out.
+
+Ctrl + \ (PDF)	Toggle PDF between fit to page or fit to width.
+
+Ctrl + [ (PDF)	Rotate PDF counter-clockwise 90 degree.
+
+Ctrl + ] (PDF)	Rotate PDF clockwise 90 degree.
+
+Ctrl + Shift + Delete	Open clear browsing data options.
+
+Alt (or F10)	Focus on the Settings (three-dotted) button.
+
+Alt + Left arrow	Go back.
+
+Alt + Right arrow	Go forward.
+
+Alt + Home	Open home page.
+
+Alt + F4	Close the current window.
+
+F1	Open Help page.
+
+F6	Switch focus to the next pane.
+
+Shift + F6	Switch focus to the previous pane.
+
+F7	Enable or disable caret browsing.
+
+F9	Enter or exit Immersive Reader.
+
+Shift + F10	Open browser context menu.
+
+F11	Enter fullscreen.
+
+Esc	Stop loading page, close dialog, or close pop-up.
+
+Spacebar (or PgDn)	Scroll down the webpage one screen at a time.
+
+Shift + Spacebar (or PgUp)	Scroll up the webpage one screen at a time.
+
+Tab	Go to the next tab stop.
+
+Shift + Tab	Go to the previous tab stop
+
+Home	Scroll to the top of the page, or move keyboard focus to the first item of the pane.
+
+End	Scroll to the bottom of the page, or move keyboard focus to the last item of the pane.
+
+
+
+
+
+
+Windows Key Shortcuts
+
+
+Keyboard shortcut	Action
+
+Windows key	Open Start menu.
+
+Windows key + A	Open Action center.
+
+Windows key + S (or Q)	Open Search.
+
+Windows key + D	Display and hide the desktop.
+
+Windows key + L	Locks computer.
+
+Windows key + M	Minimize all windows.
+
+Windows key + B	Set focus notification area in the Taskbar.
+
+Windows key + C	Launch Cortana app.
+
+Windows key + F	Launch Feedback Hub app.
+
+Windows key + G	Launch Game bar app.
+
+Windows key + Y	Change input between desktop and Mixed Reality.
+
+Windows key + O	Lock device orientation.
+
+Windows key + T	Cycle through apps in the Taskbar.
+
+Windows key + Z	Switch input between the desktop experience and Windows Mixed Reality.
+
+Windows key + J	Set focus on a tip for Windows 10 when applicable.
+
+Windows key + H	Open dictation feature.
+
+Windows key + E	Open File Explorer.
+
+Windows key + I	Open Settings.
+
+Windows key + R	Open Run command.
+
+Windows key + K	Open Connect settings.
+
+Windows key + X	Open Quick Link menu.
+
+Windows key + V	Open Clipboard bin.
+
+Windows key + W	Open the Windows Ink Workspace.
+
+Windows key + U	Open Ease of Access settings.
+
+Windows key + P	Open Project settings.
+
+Windows key + Ctrl + Enter	Open Narrator.
+
+Windows key + Plus (+)	Zoom in using the magnifier.
+
+Windows key + Minus (-)	Zoom out using the magnifier.
+
+Windows key + Esc	Exit magnifier.
+
+Windows key + Forward-slash (/)	Start IME reconversion.
+
+Windows key + Comma (,)	Temporarily peek at the desktop.
+
+Windows key + Up arrow key	Maximize app windows.
+
+Windows key + Down arrow key	Minimize app windows.
+
+Windows key + Home	Minimize or maximize all but the active desktop window.
+
+Windows key + Shift + M	Restore minimized windows on the desktop.
+
+Windows key + Shift + Up arrow key	Stretch desktop window to the top and bottom of the screen.
+
+Windows key + Shift + Down arrow key	Maximize or minimize active windows vertically while maintaining width.
+
+Windows key + Shift + Left arrow key	Move active window to monitor on the left.
+
+Windows key + Shift + Right arrow key	Move active window to monitor on the right.
+
+Windows key + Left arrow key	Snap app or window left.
+
+Windows key + Right arrow key	Snap app or window right.
+
+Windows key + Number (0-9)	Open the app in number position in the Taskbar.
+
+Windows key + Shift + Number (0-9)	Open another app instance in the number position in the Taskbar.
+
+Windows key + Ctrl + Number (0-9)	Switch to the last active window of the app in the number position in the Taskbar.
+
+Windows key + Alt + Number (0-9)	Open Jump List of the app in number position in the Taskbar.
+
+Windows key + Ctrl + Shift + Number (0-9)	Open another instance as an administrator of the app in the number position in the Taskbar.
+
+Windows key + Ctrl + Spacebar	Change previous selected input option.
+
+Windows key + Spacebar	Change keyboard layout and input language.
+
+Windows key + Tab	Open Task View.
+
+Windows key + Ctrl + D	Create a virtual desktop.
+
+Windows key + Ctrl + F4	Close active virtual desktop.
+
+Windows key + Ctrl + Right arrow	Switch to the virtual desktop on the right.
+
+Windows key + Ctrl + Left arrow	Switch to the virtual desktop on the left.
+
+Windows key + Ctrl + Shift + B	Wake up the device when black or a blank screen.
+
+Windows key + PrtScn	Capture a full screenshot in the "Screenshots" folder.
+
+Windows key + Shift + S	Create part of the screen screenshot.
+
+Windows key + Shift + V	Cycle through notifications.
+
+Windows key + Ctrl + F	Open search for the device on a domain network.
+
+Windows key + Ctrl + Q	Open Quick Assist.
+
+Windows key + Alt + D	Open date and time in the Taskbar.
+
+Windows key + Period (.) or Semicolon (;)	Open emoji panel.
+
+Windows key + Pause	Show System Properties dialog box.
+
+
+
+
+
+Firefox Keyboard Shortcuts
+
+General commands
+•	Complete a .com address: Ctrl-Enter
+•	Delete the selected autocomplete entry: Shift-Del
+•	Toggle full screen view: F11 (Command-Shift-R on Mac)
+•	Put the focus in the address bar: Alt-D or Ctrl-L 
+Navigating 
+•	Forward and back: Alt-Right Arrow or Alt-Left Arrow
+•	Home: Alt-Home
+•	Reload page: Ctrl-R
+•	Reload and override cache: Ctrl-Shift-R
+•	Stop: Esc
+On the current page
+•	Go to the next or previous field: Tab or Shift-Tab
+•	Scroll down: Page Down or Spacebar
+•	Go to bottom of page: Ctrl-Down Arrow
+•	Go to top of page: Ctrl-Up Arrow
+•	Print: Ctrl-P
+•	Zoom in: Ctrl-Plus sign
+•	Zoom out: Ctrl-Minus sign
+•	Reset the zoom level to 100%: Ctrl-0
+Search
+•	Find on this page: Ctrl-F
+•	Find next: Ctrl-G
+•	Find previous: Ctrl-Shift-G
+•	Quick find: /
+•	Close find bar: Esc
+•	Switch search engine: Alt-Up Arrow or Alt-Down Arrow
+Windows and tabs
+•	Create a new tab: Ctrl-T
+•	Create a new window: Ctrl-N
+•	Close the current tab: Ctrl-W
+•	Close the current window: Ctrl-Shift-W
+•	Undo a closed tab: Shift-Ctrl-T
+•	Undo a closed window: Ctrl-Shift-N
+•	Cycle through tabs: Ctrl-Tab
+•	Move one tab to the right: Ctrl-Tab
+•	Move one tab to the left: Ctrl-Shift-Tab
+•	Go to a specific tab: Ctrl-[number]
+•	Go to last tab: Ctrl-9
+•	Move a tab to the left or right: Ctrl-Shift-Page Up or Ctrl-Shift-Page Down
+•	Mute or unmute the current tab: Ctrl-M
+History and bookmarks
+•	Bookmark the current tab: Ctrl-D
+•	Open the history sidebar: Ctrl-H
+•	Open the Bookmarks sidebar: Ctrl-B
+•	Open the Library window: Ctrl-Shift-H
+•	Clear your recent history: Ctrl-Shift-Delete
+Media controls
+•	Play or pause: Space bar
+•	Change volume: Up Arrow or Down Arrow
+•	Mute or unmute audio: Ctrl-Up Arrow or Ctrl-Down Arrow
+•	Skip ahead or back: Right Arrow or Left Arrow
+
